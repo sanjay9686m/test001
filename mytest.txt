@@ -1,5 +1,7 @@
-a= 1
-b=2
-c=a+b
-sanjay murugan cloud engineer
- let see what will get it back 
+a= sanjay 
+b= hari 
+c= gopal
+d = a+b+C
+going to a cloud engineering
+let shope
+
